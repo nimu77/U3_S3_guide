@@ -12,6 +12,8 @@ requests = "*"
 basilica = "*"
 beautifulsoup4 = "*"
 pandas = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
